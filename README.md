@@ -1,2 +1,8 @@
-# csharp-projects
-All of my personal projects that are C#-based.
+# C# Projects
+
+All C# focused code, from game development to general applications, can be
+found here.
+
+## Categories
+
+- Unity Engine
